@@ -12,7 +12,9 @@ Now, you can edit the files in `~/remote`, write your changes, and re-run that p
 
 For this competition, you must stick to customizing the Sway window manager, but you may install any packages/modules and create any additional files you'd like for your config.
 
-Make sure to commit your final rice by or before 11PM PST 9/25/2025. We will only look at commits on or before that time (and repos forked after I said "START")! Voting will be done virtually and winners will be announced at the next GM, receiving a super special prize for 1st 2nd and 3rd :)
+Make sure to commit your final rice by or before **11PM PST 10/08/2025**. We will only look at commits on or before that time (and repos forked after I said "START")! Voting will be done virtually and winners will receive super special prizes for 1st 2nd and 3rd. If youre struggling to push your fork to github, please let me know (contact@jaysa.net) or come to GM on 10/08 for assistance.
+
+10/01/2025 UPDATE: I extended the competition by by 1 more week, since this is many people's first time ever ricing a linux desktop, and I wanted everyone to have several solid submissions :)
 
 I (`jaysa`) will be available for *minimal* assistance with debugging if you find yourself unable to perform a core part of the competition (i.e. you have issues with git, ssh, installing sway, etc).
 
